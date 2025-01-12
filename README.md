@@ -5,11 +5,11 @@
 ## 📒 Descrição
 E-book "Desvendando a Matrix: uma introdução ao Machine Learning" criado a partir do uso de IAs generativas.
 
-[Clique aqui para ler]()
+[Clique aqui para ler](Bootcamp DIO IA Generativa - E-book - Desvendando a Matrix uma introdução ao Aprendizado de Máquina (1)_compressed (1).pdf)
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/)
-- [Mídia Mágica do CANVA]([https://chatgpt.com/](https://www.canva.com/pt_br/magia/)) 
+- [Mídia Mágica do CANVA]([https://chatgpt.com/](https://www.canva.com/pt_br/magia/)
 - [CANVA]([https://chatgpt.com/](https://www.canva.com/)
 
 --- ChatGPT:
@@ -35,6 +35,16 @@ Faça um texto para o e-book "Desvendando a Matrix: uma introdução ao Machine 
 - Explique sempre de uma maneira simples e didática, incrementando com elementos da temática dos filmes da saga "Matrix".
 - Mantenha o texto o mais enxuto possível.
 - Deixe um título sugestivo por capítulo e para os tópicos abordados em cada um dos capítulos voltados para a temática dos filmes da saga "Matrix".
+
+- PROMPTS PARA APERFEIÇOAMENTO DO CONTEÚDO:
+
+Crie seções para cada um dos capítulos criados acima e gere títulos também voltados à temática dos filmes da saga "Matrix".
+
+Construa um texto curto (2 frases no máximo) introduzindo cada capítulo e forneça conteúdo para cada uma das seções do e-book acima.
+
+Expanda o conteúdo gerado para cada seção. O que está atualmente está muito enxuto.
+
+Escreva uma introdução em 2 parágrafos curtos sobre o e-book elaborado e seus principais tópicos.
 
 --- Canva AI:
 
@@ -70,7 +80,8 @@ Rodapé/Paginação: 14
 
 ## 👨‍💻 Autoria
 
-<img src="/assets/img/thaisa-guio.png">
+<img src="/images/thaisa-guio.png">
 Thaisa Guio
-[LinkedIn](https://www.linkedin.com/in/thaisa-guio/) 
+[LinkedIn](https://www.linkedin.com/thaisa-guio/) 
+
 
