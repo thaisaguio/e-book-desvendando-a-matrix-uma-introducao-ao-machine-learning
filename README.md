@@ -5,11 +5,11 @@
 ## 📒 Descrição
 E-book "Desvendando a Matrix: uma introdução ao Machine Learning" criado a partir do uso de IAs generativas.
 
-[Clique aqui para ler](desvendando-a-matrix-uma-introducao-ao-machine-learning)
+[Clique aqui para ler](desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/)
-- [Mídia Mágica do CANVA]([https://chatgpt.com/](https://www.canva.com/pt_br/magia/)
+- [Mídia Mágica do CANVA](https://www.canva.com/pt_br/magia/)
 - [CANVA](https://www.canva.com/)
 
 ## 🧐 Processo de Criação
@@ -84,4 +84,4 @@ Rodapé/Paginação: 14
 
 Thaisa Guio
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
-<img src="/images/thaisa-guio.png">
+<img src="/images/thaisa-guio.png" width="20">
