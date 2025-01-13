@@ -80,6 +80,12 @@ Título: 32
 Corpo Texto: 24
 Rodapé/Paginação: 14
 
+## 🚀 Resultados
+
+[Clique aqui para ler](desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
+
+## 💭 Reflexão
+
 ## 👨‍💻 Autoria
 
 Thaisa Guio
