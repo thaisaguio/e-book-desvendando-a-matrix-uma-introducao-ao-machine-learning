@@ -58,34 +58,32 @@ Imagem para capa de livro em estilo futurístico sobre aprendizado de máquina c
 
 Para diagramação e confecção do e-book.
 
-Capa
-Fonte: Gagalin
-Título: 52
-Subtítulo: 30
-Autoria: 24
+Capa  
+Fonte: Gagalin  
+Título: 52  
+Subtítulo: 30  
+Autoria: 24  
 
-Página de Introdução
-Fonte: Calibri (MS)
-Corpo Texto: 22
-Rodapé/Paginação: 14
+Página de Introdução  
+Fonte: Calibri (MS)  
+Corpo Texto: 22  
+Rodapé/Paginação: 14  
 
-Página de Capítulo
-Fonte: Calibri (MS)
-Número do Capítulo: 148
-Título: 40
-Corpo Texto: 32
+Página de Capítulo  
+Fonte: Calibri (MS)  
+Número do Capítulo: 148  
+Título: 40  
+Corpo Texto: 32  
 
-Páginas de Conteúdo
-Fonte: Calibri (MS)
-Título: 32
-Corpo Texto: 24
-Rodapé/Paginação: 14
+Páginas de Conteúdo  
+Fonte: Calibri (MS)  
+Título: 32  
+Corpo Texto: 24  
+Rodapé/Paginação: 14  
 
 ## 🚀 Resultados
 
 [Clique aqui para ler](e-book-desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
-
-## 💭 Reflexão
 
 ## 👨‍💻 Autoria
 
