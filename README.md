@@ -87,7 +87,7 @@ Rodapé/Paginação: 14
 
 ## 👨‍💻 Autoria
 
-Thaisa Guio
+Thaisa Guio  
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
 
 <img src="/images/thaisa-guio.png" width="80">
