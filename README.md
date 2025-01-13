@@ -90,4 +90,5 @@ Rodapé/Paginação: 14
 
 Thaisa Guio
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
-<img src="/images/thaisa-guio.png" width="20">
+
+<img src="/images/thaisa-guio.png" width="60">
