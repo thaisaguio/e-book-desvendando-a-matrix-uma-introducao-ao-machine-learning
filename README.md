@@ -5,20 +5,22 @@
 ## 📒 Descrição
 E-book "Desvendando a Matrix: uma introdução ao Machine Learning" criado a partir do uso de IAs generativas.
 
-[Clique aqui para ler](Bootcamp DIO IA Generativa - E-book - Desvendando a Matrix uma introdução ao Aprendizado de Máquina (1)_compressed (1).pdf)
+[Clique aqui para ler](desvendando-a-matrix-uma-introducao-ao-machine-learning)
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/)
 - [Mídia Mágica do CANVA]([https://chatgpt.com/](https://www.canva.com/pt_br/magia/)
-- [CANVA]([https://chatgpt.com/](https://www.canva.com/)
+- [CANVA](https://www.canva.com/)
 
---- ChatGPT:
+## 🧐 Processo de Criação
 
-- PROMPT PARA O TÍTULO:
+- ChatGPT:
+
+PROMPT PARA O TÍTULO:
 
 Crie um título de um e-book sobre o tema "Introdução ao Aprendizado de Máquina" no nicho de Inteligência Artificial. O título deve ser curto e impactante, com a temática da saga de filmes "Matrix". Forneça 5 opções de título.
 
-- PROMPT PARA O CONTEÚDO:
+PROMPT PARA O CONTEÚDO:
 
 Faça um texto para o e-book "Desvendando a Matrix: uma introdução ao Machine Learning" com a seguinte sugestão de capítulos: 
 1. O que é Machine Learning?
@@ -36,7 +38,7 @@ Faça um texto para o e-book "Desvendando a Matrix: uma introdução ao Machine 
 - Mantenha o texto o mais enxuto possível.
 - Deixe um título sugestivo por capítulo e para os tópicos abordados em cada um dos capítulos voltados para a temática dos filmes da saga "Matrix".
 
-- PROMPTS PARA APERFEIÇOAMENTO DO CONTEÚDO:
+PROMPTS PARA APERFEIÇOAMENTO DO CONTEÚDO:
 
 Crie seções para cada um dos capítulos criados acima e gere títulos também voltados à temática dos filmes da saga "Matrix".
 
@@ -46,12 +48,12 @@ Expanda o conteúdo gerado para cada seção. O que está atualmente está muito
 
 Escreva uma introdução em 2 parágrafos curtos sobre o e-book elaborado e seus principais tópicos.
 
---- Canva AI:
+- Canva AI:
 
 PROMPT PARA IMAGEM DA CAPA:
 Imagem para capa de livro em estilo futurístico sobre aprendizado de máquina com a temática da saga de filmes "Matrix".
 
---- Canva
+- Canva
 
 Para diagramação e confecção do e-book.
 
@@ -80,8 +82,6 @@ Rodapé/Paginação: 14
 
 ## 👨‍💻 Autoria
 
-<img src="/images/thaisa-guio.png">
 Thaisa Guio
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
-
-
+<img src="/images/thaisa-guio.png">
