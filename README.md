@@ -1,6 +1,7 @@
-# Projeto IA Generativa - E-book "Desvendando a Matrix: uma introdução ao Machine Learning"
+# Projeto IA Generativa
+## E-book "Desvendando a Matrix: uma introdução ao Machine Learning"
 
-ℹ️ NOTE: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
+ℹ️ NOTA: Este projeto foi criado para o bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot".
 
 ## 📒 Descrição
 E-book "Desvendando a Matrix: uma introdução ao Machine Learning" criado a partir do uso de IAs generativas.
@@ -89,7 +90,6 @@ Rodapé/Paginação: 14
 ## 👨‍💻 Autoria
 
 Thaisa Guio
-
 [LinkedIn](https://www.linkedin.com/thaisa-guio/) 
 
 <img src="/images/thaisa-guio.png" width="80">
