@@ -118,5 +118,3 @@ Rodapé/Paginação: 14
 ---
 
 ⌨️ com 💜 por [Thaisa Guio](https://github.com/thaisaguio)
-
-<img src="/images/thaisa-guio.png" width="80">
