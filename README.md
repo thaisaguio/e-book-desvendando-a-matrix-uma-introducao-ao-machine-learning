@@ -87,7 +87,36 @@ Rodapé/Paginação: 14
 
 ## 👨‍💻 Autoria
 
-Thaisa Guio  
-[LinkedIn](https://www.linkedin.com/thaisa-guio/) 
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=100 
+      src="/images/thaisa-guio.png"
+    />
+    <p>&nbsp&nbsp&nbspThaisa Guio<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/thaisaguio">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/thaisa-guio/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/thaisaguio">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Thaisa Guio](https://github.com/thaisaguio)
 
 <img src="/images/thaisa-guio.png" width="80">
