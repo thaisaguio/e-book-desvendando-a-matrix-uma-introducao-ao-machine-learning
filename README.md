@@ -6,7 +6,7 @@
 ## 📒 Descrição
 E-book "Desvendando a Matrix: uma introdução ao Machine Learning" criado a partir do uso de IAs generativas.
 
-[Clique aqui para ler](e-book-desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
+[Clique aqui para ler o e-book](e-book-desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chatgpt.com/)
@@ -83,7 +83,7 @@ Rodapé/Paginação: 14
 
 ## 🚀 Resultados
 
-[Clique aqui para ler](e-book-desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
+[Clique aqui para ler o e-book](e-book-desvendando-a-matrix-uma-introducao-ao-machine-learning.pdf)
 
 ## 👨‍💻 Autoria
 
